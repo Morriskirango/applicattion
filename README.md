@@ -40,7 +40,7 @@ file"<frozen importlib._bootstrap>"line 1030,in_gcd_import
 file"<frozen importlib._bootstrap>"line 1030,in_gcd_import
 file"<frozen importlib._bootstrap>"line 1007,in_find_and-load
 file"<frozen importlib._bootstrap>"line 984,in_find_unlock
-Module NotfoundError:No module anmed 'django project
+Module found:module anamed 'django project
   
 
 
